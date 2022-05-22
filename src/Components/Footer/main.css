@@ -1,0 +1,11 @@
+footer {
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 60px;
+
+    font-family: 'Open Sans', sans-serif;
+    display: flex
+    background-color: cadetblue;
+    padding: 15px;;
+}

@@ -1,0 +1,16 @@
+.logo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 70px;
+    padding: 0 15px;
+    /* background-color: #28282d; */
+    width: 140px;
+}
+
+.logo img {
+    width: auto;
+    max-width: 110px;
+    display: block;
+}
+
